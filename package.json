@@ -1,0 +1,14 @@
+{
+    "name": "quotation-a-day",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "mahesh",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.13.3"
+    }
+}
